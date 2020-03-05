@@ -1,2 +1,4 @@
-# git-food
-Empresa distribuída de comida.
+# GitFood
+
+Bem-Vindo a GitFood
+===================

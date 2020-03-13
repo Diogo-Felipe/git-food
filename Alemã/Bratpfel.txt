@@ -23,7 +23,7 @@ Modo de Preparo:
 ----------------
 
 1. Descasque as maçãs
-2. retire o miolo com as sementes
+   1.1 retire o miolo com as sementes
 3. Numa tigela média misture as nozes, o açúcar e as passas
 4. Recheie as maçãs com a mistura
 5. Coloque sobre uma folha grande de papel-alumínio

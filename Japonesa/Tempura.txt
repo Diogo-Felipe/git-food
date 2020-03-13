@@ -1,5 +1,5 @@
 Tempura de Legumes
-----------------------------
+--------------------
 
 Informações:
 -----------
@@ -17,14 +17,12 @@ Ingredientes:
 500 g de camarão médio limpo 
 
 Massa
--------------
+------
 2 xícaras (chá) de água gelada
 1 xícara (chá) de farinha de trigo
 1 colher (sobremesa) de sal
 1 colher (café) rasa de fermento em pó
 1 saquinho de tempero pronto (amarelo ou laranja) - opcional
-
-
 
 Modo de Preparo:
 ----------------
@@ -36,3 +34,4 @@ Modo de Preparo:
   2.2. Ir colocando pequenas porções no óleo quente.
   2.3. Deixe dourar de um lado e vire do outro.
   2.4. Retire do óleo quente e deixe escorrer em papel absorvente.
+  
